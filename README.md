@@ -39,6 +39,7 @@
 
 ```text
 NSDA_AutoUpload_with_Screenshot.au3   # 自动上架+每步截图主程序
+NSDA_AutoUpload_with_Screenshot.exe   # 无需运行环境，可直接在windows上运行。
 NSDA_Coords.ini                       # 参数配置文件（自动生成/保存）
 README.md                             # 项目说明文档
 ```
